@@ -1,6 +1,6 @@
 # Quiz Application
 
-- Uygulamaya aşağıdaki linkten ulaşabilirsiniz.
+- Uygulamaya linkten ulaşabilirsiniz.
 **https://quizapp-task2.netlify.app/**
 ## Working Logic
     - Uygulama 10 sorudan ve her soru 4 şıktan oluşmaktadır.
